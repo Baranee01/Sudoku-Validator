@@ -1,4 +1,4 @@
-# SudokuValidator
+# Sudoku Validator
 This program validates whether a given sudoku board is valid or not.
 
 ## Algorithm :
